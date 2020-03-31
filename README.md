@@ -1,2 +1,1 @@
-powx location
 

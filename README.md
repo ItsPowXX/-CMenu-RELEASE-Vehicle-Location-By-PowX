@@ -1,2 +1,1 @@
-# -CMenu-RELEASE-Vehicle-Location-By-PowX
-powx_location
+powx_location 

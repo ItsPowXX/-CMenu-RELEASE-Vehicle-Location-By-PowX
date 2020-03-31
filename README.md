@@ -1,5 +1,5 @@
 
-powx_location is a Script for vehicles location on [CMenu] an [ESX]
+powx_location is a Script for vehicles location on [CMenu] and [ESX]
 
 > Important
 

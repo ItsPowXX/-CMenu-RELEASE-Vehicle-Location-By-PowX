@@ -9,7 +9,7 @@ powx_location is a Script for vehicles location on [CMenu] and [ESX]
 
 > If you want to contribute (like translation) you can make a pull request or open a new issue
 
-Video : https://streamable.com/tfmih
+Video : https://streamable.com/8b9lk8
 
 
 Support :
